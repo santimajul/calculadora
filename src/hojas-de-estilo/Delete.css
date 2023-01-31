@@ -1,0 +1,16 @@
+.delete{
+    height: 80px;
+    width: 390px;
+    color: white;
+    background-color: #801919 ;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    margin: 5px 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+}

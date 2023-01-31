@@ -1,0 +1,17 @@
+
+.pantalla{
+    min-height: 80px;
+    max-width: 380px;
+    color: black;
+    background-color: rgb(192, 185, 185);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 30px;
+    margin: 10px 10px;
+    padding-right: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    overflow-x: hidden;
+}
